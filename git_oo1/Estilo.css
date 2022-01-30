@@ -1,0 +1,36 @@
+body{
+    font-size-adjust: initial;
+}
+
+.contenedor{
+    border: 1px solid #acc;
+    margin: o auto;
+    width: 60%;
+    background-color: white;
+    padding: 10px;
+
+}
+
+.principal{
+    background-color: royalblue;
+    padding: 10px;
+}
+
+.img{
+    width: 10px;
+    height: 10px;
+}
+.header{
+    display: flex;
+}
+.nombre{
+    margin-left: 40px;
+    width: 100%;
+}
+.titulo{
+    border-color: brown;
+    color:brown;
+}
+    
+</body>
+</html>
